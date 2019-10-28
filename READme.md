@@ -1,7 +1,7 @@
 # Winning Division
 A program that determines which of the four company divisions **NE SE NW SW** had the greatest sales for a quarter.
 
-##Variable
+## Variable
 **double** _getSales_
 
 **void** _findHighest_
