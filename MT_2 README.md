@@ -1,5 +1,5 @@
 # Math Tutor Program 2
-This program will help grade school students practice math. Program should present the student with a menu that allows the choice of _addition_, _subtraction_, _multiplication_, and _division_.
+This program will help grade school students practice math. Program should present the student with a menu that allows the choice of _addition_, _subtraction_, _multiplication_, _divison_ and the chocie to quit the program all together.
 
 ## Directions
 Begin the program (by choosing a number between 1-5) after choosing a type of math the program will prompt you math questions telling you when they are **correct** or not. The problems will continue to loop and randomly generate until the user decides to quit by entering the number five as your input option.The program also keeps track of the amount of questions answered correctly and incorrectly.
